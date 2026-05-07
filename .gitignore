@@ -1,8 +1,0 @@
-# Root .gitignore
-
-node_modules/
-.env
-.DS_Store
-.vscode/
-.idea/
-*.log
